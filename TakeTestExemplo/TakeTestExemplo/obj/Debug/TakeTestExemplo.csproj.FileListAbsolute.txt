@@ -1,0 +1,11 @@
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\chromedriver.exe
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\TakeTestExemplo.dll
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\TakeTestExemplo.pdb
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\WebDriver.dll
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\WebDriver.Support.dll
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\WebDriver.xml
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\bin\Debug\WebDriver.Support.xml
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\obj\Debug\TakeTestExemplo.csprojResolveAssemblyReference.cache
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\obj\Debug\TakeTestExemplo.dll
+c:\users\tiagos\documents\visual studio 2015\Projects\TakeTestExemplo\TakeTestExemplo\obj\Debug\TakeTestExemplo.pdb
